@@ -2,6 +2,10 @@
 
 Working with Pathfinder can sometimes be a pain when you don't remember where a given point actually is. With GPP, you can now plot points on a map of the field, and generate Java code from it!
 
+this is my fork
+
+evaluateing this for future use with next season for pathfinder 
+
 ## Tools
 
 ### Place points on a map of the field
